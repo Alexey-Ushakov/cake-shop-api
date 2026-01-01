@@ -17,3 +17,6 @@
 - **DeliveryAddress** — адрес доставки (строка с городом, улицей и т.д.).
 - **DeliveryMethod** — способ доставки
 - **OrderStatus** — статус заказа: Pending, Confirmed, InProduction, ReadyForPickup, Delivered, Cancelled.
+- **Price** — стоимость индивидуальных доплат за ингридиенты или декор
+- **TotalAmount** — сумма всех OrderLine
+- **PaymentStatus** — статус оплаты: Ожидает оплаты, Оплачен, Возврат
